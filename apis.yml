@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.here.com
 common:
+  - type: DomainSecurity
+    url: security/here-maps-domain-security.yml
   - type: Website
     url: https://developer.here.com
   - type: PublicAPIsListing

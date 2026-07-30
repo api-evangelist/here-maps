@@ -1,4 +1,16 @@
 aid: here-maps
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/here-maps.png
 name: HERE Maps
 description: "Create/customize digital maps based on HERE Maps data"
 url: https://developer.here.com

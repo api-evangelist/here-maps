@@ -39,7 +39,6 @@ apis:
   - name: HERE Maps
     description: "Create/customize digital maps based on HERE Maps data"
     humanURL: https://developer.here.com
-    baseURL: https://developer.here.com
     tags:
       - Geocoding
     properties:
